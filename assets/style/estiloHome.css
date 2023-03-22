@@ -1,0 +1,32 @@
+  
+.striped {
+    background: linear-gradient(to bottom left, cyan 50%, palegoldenrod 50%);
+  }
+
+.banner{
+    background-image: url("../img/banner.jpg");
+    background-position: top center;
+    background-size: cover;
+    padding: 20%;
+    background-attachment: fixed;
+    margin-top: 20px;
+}
+
+.menu{
+    background-color: #8775ee;
+}
+
+h2,img{
+    
+    display:inline-block;
+    }
+    
+    /*solo demostrativo*/
+    #nivel{
+    background-color:yellow;
+    }
+
+    #fot{
+        display: flex;
+        justify-content: space-around;
+    }
